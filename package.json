@@ -1,6 +1,6 @@
 {
-	"author": "Opeyemi Adekoyejo",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Opeyemi Adekoyejo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
